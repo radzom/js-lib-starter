@@ -8,7 +8,7 @@
 [![Conventional Commits](https://img.shields.io/badge/Conventional_Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier#readme)
-<!-- [![NpmLicense](https://img.shields.io/npm/l/@adorsys/js-lib-starter.svg)](https://github.com/adorsys/js-lib-starter/blob/master/LICENSE) -->
+<!-- [![NpmLicense](https://img.shields.io/npm/l/js-lib-starter.svg)](https://github.com/radzom/js-lib-starter/blob/master/LICENSE) -->
 <!-- [![Dev Dependencies](https://david-dm.org/radzom/js-lib-starter/dev-status.svg)](https://david-dm.org/radzom/js-lib-starter?type=dev) -->
 
 
